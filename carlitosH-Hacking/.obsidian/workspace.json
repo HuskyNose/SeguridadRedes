@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gerenal-Skils/10-Nice netcat....md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Nice netcat..."
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "f56fb9954306ed44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General-skills 2/10-repetitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-repetitions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,34 +214,39 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cc5bd61672f3c3c4",
+  "active": "f56fb9954306ed44",
   "lastOpenFiles": [
-    "Gerenal-Skils/9-Glitch Cat.md",
-    "Gerenal-Skils/plantilla.md",
-    "Gerenal-Skils/10-Nice netcat....md",
-    "Gerenal-Skils/8-plumbing.md",
-    "Gerenal-Skils/5-First Grep.md",
-    "Gerenal-Skils/6-Obedient Cat.md",
-    "Gerenal-Skils/7-what's a net cat.md",
-    "Gerenal-Skils/4-Bases.md",
     "plantilla.md",
-    "Gerenal-Skils/README 1.md",
+    "General-skills 2/10-repetitions.md",
+    "General-skills 2/9-Big Zip.md",
+    "General-skills 2/8-First Find.md",
+    "General-skills 2/7-Magikarp Ground Mission.md",
+    "General-skills 2/5-Wave a flag.md",
+    "General-skills 2/6-Tab, Tab, Attack.md",
+    "General-skills 2/1-Based.md",
+    "General-skills 2/3-strings it.md",
+    "General-skills 2/2-useless.md",
+    "Gerenal-Skils/8-plumbing.md",
+    "Gerenal-Skils/7-what's a net cat.md",
+    "Gerenal-Skils/6-Obedient Cat.md",
+    "Gerenal-Skils/5-First Grep.md",
+    "Gerenal-Skils/4-Bases.md",
     "Gerenal-Skils/3-Warmed Up.md",
-    "1-Lets Warm Up.md",
-    "Gerenal-Skils/README.md",
     "Gerenal-Skils/2-2warm.md",
     "Gerenal-Skils/1-Lets Warm Up.md",
+    "General-skills 2/4-Static ain't always noise.md",
+    "Gerenal-Skils/10-Nice netcat....md",
+    "Gerenal-Skils/9-Glitch Cat.md",
+    "General-skills 2",
+    "README.md",
+    "1-Lets Warm Up.md",
     "Sin título.base",
     "2-2warm.md",
     "3-Warmed Up.md",
     "carlitosH-Hacking/README.md",
-    "carlitosH-Hacking/plantilla.md",
-    "carlitosH-Hacking/1-Lets Warm Up.md",
     "carlitosH-Hacking/Gerenal-Skils",
     "carlitosH-Hacking",
     "Nueva carpeta",
-    "Gerenal-Skils",
-    "Bienvenido.md",
-    "cree un enlace.md"
+    "Gerenal-Skils"
   ]
 }
