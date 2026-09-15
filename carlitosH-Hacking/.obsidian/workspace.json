@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-2/3-Scavenger Hunt.md",
+                "file": "Web-3/3-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-Scavenger Hunt"
+              "title": "3-JaWT Scratchpad"
             }
           }
         ],
@@ -288,7 +288,11 @@
   "active": "a68dd3c463a5ce96",
   "lastOpenFiles": [
     "plantilla.md",
+    "Web-3/3-JaWT Scratchpad.md",
+    "Web-3/2-More SQLi.md",
+    "Web-3/1-Irish-Name-Repo 1.md",
     "Web-2/3-Scavenger Hunt.md",
+    "Web-3",
     "Web-2/1- GET aHEAD.md",
     "Web-2/2-Cookies.md",
     "Retos-Web/Sin título.md",
@@ -312,9 +316,6 @@
     "Gerenal-Skils/2-2warm.md",
     "General-skills 3/7-PW Crack 1.md",
     "General-skills 2/1-Based.md",
-    "General-skills 3/6-fixme2.py.md",
-    "General-skills 3/5-fixme1.py.md",
-    "General-skills 3/4-convertme.py.md",
     "General-skills 3",
     "General-skills 2",
     "Sin título.base",
