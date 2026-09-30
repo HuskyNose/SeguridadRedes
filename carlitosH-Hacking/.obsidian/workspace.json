@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/5-What Lies Within.md",
+                "file": "Forensic 2/5-shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-What Lies Within"
+              "title": "5-shark on wire 2"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/5-What Lies Within.md",
+                "file": "Forensic 2/5-shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,14 @@
   "active": "d7e17a333c155a44",
   "lastOpenFiles": [
     "plantilla.md",
+    "Forensic 2/5-shark on wire 2.md",
+    "Forensic 2/4-like1000.md",
+    "Forensic 2/3-c0rrupt.md",
+    "Forensic 2/2-WhitePages.md",
+    "Forensic 2/1-m00nwalk.md",
+    "README.md",
     "Forensic/5-What Lies Within.md",
+    "Forensic 2",
     "Forensic/4-extensions.md",
     "Forensic/3-shark on wire 1.md",
     "Forensic/2-So Meta.md",
@@ -202,7 +209,6 @@
     "Web-4/Pasted image 20260921111553.png",
     "Web-4/1-MatchTheRegex.md",
     "Web-2/1- GET aHEAD.md",
-    "README.md",
     "Web-3/3-JaWT Scratchpad.md",
     "Web-4",
     "Web-3/2-More SQLi.md",
@@ -215,16 +221,10 @@
     "Retos-Web/6-Client-side-again.md",
     "Retos-Web/5-picobrowser.md",
     "Retos-Web/4-dont-use-client-side.md",
-    "Retos-Web/3-logon.md",
-    "Retos-Web/2-where are the robots.md",
-    "Retos-Web/1-Insp3ct0r.md",
-    "Gerenal-Skils/15-Special.md",
     "Retos-Web",
-    "Gerenal-Skils/10-Nice netcat....md",
     "General-skills 3",
     "General-skills 2",
     "Sin título.base",
-    "carlitosH-Hacking/Gerenal-Skils",
-    "carlitosH-Hacking"
+    "carlitosH-Hacking/Gerenal-Skils"
   ]
 }
