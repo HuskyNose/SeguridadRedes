@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto-2/1-rsa-pop-quiz.md",
+                "file": "Crypto-3/4-b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-rsa-pop-quiz"
+              "title": "4-b00tl3gRSA3"
             }
           }
         ],
@@ -204,6 +204,21 @@
   "active": "79375b62633e727f",
   "lastOpenFiles": [
     "plantilla.md",
+    "Crypto-3/4-b00tl3gRSA3.md",
+    "Crypto-3/3-b00tl3gRSA2.md",
+    "Crypto-3/2-Mind your Ps and Qs.md",
+    "Crypto-3/1-Mini RSA.md",
+    "Gerenal-Skils/Tarrea1/17-Blame Game.md",
+    "Crypto-3",
+    "Gerenal-Skils/Tarrea1/18-Collaborative Development.md",
+    "Gerenal-Skils/Tarrea1/16-binhexa.md",
+    "Gerenal-Skils/1-Lets Warm Up.md",
+    "Gerenal-Skils/Tarrea1/15-Special.md",
+    "Gerenal-Skils/Tarrea1/14-chrono.md",
+    "Gerenal-Skils/Tarrea1/13-Permissions.md",
+    "Gerenal-Skils/Tarrea1/12-Time Machine.md",
+    "Gerenal-Skils/Tarrea1/11-Binary Search.md",
+    "Gerenal-Skils/Tarrea1",
     "Crypto-2/1-rsa-pop-quiz.md",
     "Sin título.md",
     "Crypto-2",
@@ -217,20 +232,7 @@
     "Forensic/7-St3g0.md",
     "Forensic/6-information.md",
     "Forensic 2/10-Scan Surprise.md",
-    "Forensic 3/5-MacroHard WeakEdge.md",
-    "Forensic 3/4-tunn3l v1s10n.md",
-    "Forensic 3/3-Matryoshka doll.md",
-    "Forensic 3/2-WebNet1.md",
-    "README.md",
-    "Forensic 3/1-WebNet0.md",
-    "Primer parcial/Web/10-WebSockFish.md",
     "Forensic 3",
-    "Primer parcial/Web/9-SSTI2.md",
-    "Primer parcial/Web/8-SSTI1.md",
-    "Primer parcial/Web/7-SQL Direct.md",
-    "Primer parcial/Web/6-n0s4n1ty 1.md",
-    "Primer parcial/Web/5-Java Code Analysis!.md",
-    "Primer parcial/Web/4-head-dump.md",
     "Primer parcial/General Skills",
     "Primer parcial/Web",
     "Primer parcial",
@@ -239,8 +241,6 @@
     "Pasted image 20260921111649.png",
     "Pasted image 20260921111611.png",
     "Web-4/Pasted image 20260921111553.png",
-    "Web-4",
-    "Web-3",
-    "Web-2"
+    "Web-4"
   ]
 }
