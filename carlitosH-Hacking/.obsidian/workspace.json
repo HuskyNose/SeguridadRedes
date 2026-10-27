@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto-5/9-substitution2.md",
+                "file": "Reversing/5-vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-substitution2"
+              "title": "5-vault-door-5"
             }
           }
         ],
@@ -217,8 +217,15 @@
   },
   "active": "a8dbf50554b2ce66",
   "lastOpenFiles": [
+    "Pasted image 20261026190114.png",
     "plantilla.md",
+    "Reversing/5-vault-door-5.md",
+    "Reversing/4-vault-door-4.md",
+    "Reversing/3-vault-door-3.md",
+    "Reversing/2-vault-door-1.md",
+    "Reversing/1-vault-door-training.md",
     "Crypto-5/9-substitution2.md",
+    "Reversing",
     "Crypto-5/8-substitution1.md",
     "Crypto-5/10-Vigenere.md",
     "Crypto-5/7-substitution0.md",
@@ -242,12 +249,6 @@
     "Crypto-3",
     "Gerenal-Skils/Tarrea1/18-Collaborative Development.md",
     "Gerenal-Skils/Tarrea1/16-binhexa.md",
-    "Gerenal-Skils/1-Lets Warm Up.md",
-    "Gerenal-Skils/Tarrea1/15-Special.md",
-    "Gerenal-Skils/Tarrea1/14-chrono.md",
-    "Gerenal-Skils/Tarrea1/13-Permissions.md",
-    "Gerenal-Skils/Tarrea1/12-Time Machine.md",
-    "Gerenal-Skils/Tarrea1/11-Binary Search.md",
     "Gerenal-Skils/Tarrea1",
     "Crypto-2",
     "Forensic 3",
@@ -255,7 +256,6 @@
     "Primer parcial/Web",
     "Primer parcial",
     "Forensic 2",
-    "Forensic",
     "Pasted image 20260921111649.png",
     "Pasted image 20260921111611.png",
     "Web-4/Pasted image 20260921111553.png"
